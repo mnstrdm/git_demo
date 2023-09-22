@@ -3,12 +3,3 @@
 harmadik sor
 ez meg hát a negyedik
 
-ötödik
-6hatodik sor
-7edik
-utolsó sora a versszaknak
-
-harmadig bersszakot a feature branch-ben építem
-második sor
-harmadi
-utolsó
