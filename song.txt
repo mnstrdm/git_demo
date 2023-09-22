@@ -2,9 +2,12 @@
 2 utána a második
 harmadik sor
 ez meg hát a negyedik
+<<<<<<< HEAD
 
 ötödik
 6hatodik sor
 7edik
 utolsó sora a versszaknak
 ------------------------------------
+=======
+>>>>>>> parent of 879f296 (two more lines to the song sum6)
