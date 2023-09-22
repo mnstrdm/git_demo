@@ -9,3 +9,6 @@ ez meg hát a negyedik
 utolsó sora a versszaknak
 
 harmadig bersszakot a feature branch-ben építem
+második sor
+harmadi
+utolsó
